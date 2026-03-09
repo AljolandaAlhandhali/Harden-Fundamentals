@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64538591-ac09-48ea-96c5-c118f3252654" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="39NUTIcCcuST7RsFtZh0jjSqeby" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CC.executor": "Run",
+    "Application.MessageInStarFrame.executor": "Run",
+    "Application.QuotedDialogues.executor": "Run",
+    "Application.StudentInfoShowcase.executor": "Run",
+    "Application.TableHeader.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.The5x5StarMatrix.executor": "Run",
+    "Application.TheAlignedTriangle.executor": "Run",
+    "Application.TheAsteriskFrame.executor": "Run",
+    "Application.TheClimbingCount.executor": "Run",
+    "Application.TheLongSeparator.executor": "Run",
+    "Application.TheNestedQuotation.executor": "Run",
+    "Application.TheQuotedMessage.executor": "Run",
+    "Application.TheStaircaseChallenge.executor": "Run",
+    "Application.TheStarMountain.executor": "Run",
+    "Application.TheTabbedBill.executor": "Run",
+    "Application.TheThreeLineGreeting.executor": "Run",
+    "Application.TheTreeReveal.executor": "Run",
+    "Application.TheWeeklyHeader.executor": "Run",
+    "Application.TheWindowsFileTrail.executor": "Run",
+    "Application.TicketDesk.executor": "Run",
+    "Application.cc.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/aljol/OneDrive/Desktop/Codeline/Tickets",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/aljol/OneDrive/Desktop/Codeline/Codes/Tasks/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="TheAlignedTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TheAlignedTriangle" />
+      <module name="CLI Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TheStarMountain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TheStarMountain" />
+      <module name="CLI Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicketDesk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TicketDesk" />
+      <module name="CLI Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="CLI Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="CLI Application" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TicketDesk" />
+        <item itemvalue="Application.TheAlignedTriangle" />
+        <item itemvalue="Application.TheStarMountain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64538591-ac09-48ea-96c5-c118f3252654" name="Changes" comment="" />
+      <created>1770536030294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770536030294</updated>
+      <workItem from="1770536032292" duration="5004000" />
+      <workItem from="1770615530518" duration="14520000" />
+      <workItem from="1770703210684" duration="4864000" />
+      <workItem from="1770711829482" duration="5505000" />
+      <workItem from="1771139528409" duration="25000" />
+      <workItem from="1771216763342" duration="823000" />
+      <workItem from="1771218616283" duration="205000" />
+      <workItem from="1771300244076" duration="494000" />
+      <workItem from="1771300781161" duration="105000" />
+      <workItem from="1771300932521" duration="4203000" />
+      <workItem from="1771313804555" duration="3057000" />
+      <workItem from="1771386962547" duration="2824000" />
+      <workItem from="1771401299612" duration="11709000" />
+      <workItem from="1771573869513" duration="543000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -13,7 +13,7 @@ Output:
 Path: "C:\Program Files\Java"
 */
 
-public class cc {
+public class CC {
     public static void main(String[] args) {
         System.out.println("Path: \"C:\\Program Files\\Java\"");
     }
